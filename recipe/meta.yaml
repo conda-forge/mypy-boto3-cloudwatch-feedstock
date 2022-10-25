@@ -1,5 +1,5 @@
 {% set name = "mypy-boto3-cloudwatch" %}
-{% set version = "1.24.55" %}
+{% set version = "1.25.0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/mypy-boto3-cloudwatch-{{ version }}.tar.gz
-  sha256: f8950de7a93b3db890cd8524514a2245d9b5fd83ce2dd60a37047a2cd42d5dd6
+  sha256: d5323ffeafe5144a232e27242c5d2f334f5e7ff10d0733145328888783ffcf12
 
 build:
   noarch: python
