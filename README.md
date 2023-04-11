@@ -1,11 +1,11 @@
-About mypy-boto3-cloudwatch
-===========================
+About mypy-boto3-cloudwatch-feedstock
+=====================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/mypy-boto3-cloudwatch-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/youtype/mypy_boto3_builder
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/mypy-boto3-cloudwatch-feedstock/blob/main/LICENSE.txt)
 
 Summary: Type annotations for boto3.CloudWatch 1.24.36 service generated with mypy-boto3-builder 7.10.0
 
