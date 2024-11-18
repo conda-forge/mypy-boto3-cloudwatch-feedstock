@@ -18,6 +18,7 @@ requirements:
   host:
     - pip
     - python >=3.7
+    - setuptools
   run:
     - typing_extensions >=4.1.0
     - python >=3.7
